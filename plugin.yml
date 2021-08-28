@@ -1,0 +1,12 @@
+name: Blacksmith
+main: BlackSmith
+version: 1.0.0
+api: 3.22.2
+author: Momin
+depend:
+ - EconomyAPI
+ - FormAPI
+
+commands:
+ bs:
+  description: "§o§eOpen Blacksmith"
