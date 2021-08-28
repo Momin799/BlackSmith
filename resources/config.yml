@@ -1,0 +1,7 @@
+#cost repair = item damage × price
+price-repair: 50
+xp-repair: 0.05
+
+price-rename: 500
+price-lore: 500
+
